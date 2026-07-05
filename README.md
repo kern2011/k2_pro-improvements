@@ -58,6 +58,10 @@ Recomended installation:   **Note this will take some time and seem to hang at t
 
 You are still welcome to hand pick which features you want to install.
 
+## Power cycle your Printer!
+
+Some funny stuff and errors happened to me trying to home without it
+
 ## Donations For - [@Jacob10383](https://github.com/Jacob10383)
 
 Donations are definitely *not required*, they are appreciated.  If you'd like to donate you can do so [here](https://ko-fi.com/jacob10383).
