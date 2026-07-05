@@ -58,6 +58,10 @@ Recomended installation:   **Note this will take some time and seem to hang at t
 
 You are still welcome to hand pick which features you want to install.
 
+## Edit printer.cfg
+
+printer.cfg needs: [include custom/main.cfg]
+
 ## Power cycle your Printer!
 
 Some funny stuff and errors happened to me trying to home the printer before a power cycle... Restarting host, or just restarting services is not enough.
