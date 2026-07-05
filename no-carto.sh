@@ -17,10 +17,3 @@ install_feature skip-setup
 install_feature moonraker
 install_feature fluidd
 install_feature screws_tilt_adjust
-#install_feature cartographer
-install_feature abort_homing
-mkdir -p /tmp/macros
-install_feature macros/bed_mesh
-install_feature macros/m191
-install_feature macros/start_print
-install_feature macros/overrides
