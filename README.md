@@ -60,7 +60,7 @@ You are still welcome to hand pick which features you want to install.
 
 ## Power cycle your Printer!
 
-Some funny stuff and errors happened to me trying to home without it
+Some funny stuff and errors happened to me trying to home the printer before a power cycle... Restarting host, or just restarting services is not enough.
 
 ## Donations For - [@Jacob10383](https://github.com/Jacob10383)
 
